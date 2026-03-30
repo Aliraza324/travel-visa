@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+    --font-el-messiri: 'El Messiri', sans-serif;
+}
+
+.font-el-messiri {
+    font-family: 'El Messiri', sans-serif;
+}
